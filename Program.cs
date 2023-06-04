@@ -85,7 +85,7 @@ namespace moviefinder
                 options.AddPolicy("AllowFrontEnd",
                     builder =>
                     {
-                        builder.WithOrigins("http://localhost:5173")
+                        builder.WithOrigins("https://moviefinder-pxn1x0n4k-moviefinder.vercel.app/")
                             .AllowCredentials()
                             .AllowAnyHeader()
                             .AllowAnyMethod();
