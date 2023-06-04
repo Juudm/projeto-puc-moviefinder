@@ -1,0 +1,458 @@
+C:\Users\pedro\RiderProjects\moviefinder\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\pedro\RiderProjects\moviefinder\bin\Debug\net7.0\appsettings.json
+C:\Users\pedro\RiderProjects\moviefinder\bin\Debug\net7.0\moviefinder.exe
+C:\Users\pedro\RiderProjects\moviefinder\bin\Debug\net7.0\moviefinder.deps.json
+C:\Users\pedro\RiderProjects\moviefinder\bin\Debug\net7.0\moviefinder.runtimeconfig.json
+C:\Users\pedro\RiderProjects\moviefinder\bin\Debug\net7.0\moviefinder.dll
+C:\Users\pedro\RiderProjects\moviefinder\bin\Debug\net7.0\moviefinder.pdb
+C:\Users\pedro\RiderProjects\moviefinder\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\pedro\RiderProjects\moviefinder\obj\Debug\net7.0\moviefinder.csproj.AssemblyReference.cache
+C:\Users\pedro\RiderProjects\moviefinder\obj\Debug\net7.0\moviefinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\RiderProjects\moviefinder\obj\Debug\net7.0\moviefinder.AssemblyInfoInputs.cache
+C:\Users\pedro\RiderProjects\moviefinder\obj\Debug\net7.0\moviefinder.AssemblyInfo.cs
+C:\Users\pedro\RiderProjects\moviefinder\obj\Debug\net7.0\moviefinder.csproj.CoreCompileInputs.cache
+C:\Users\pedro\RiderProjects\moviefinder\obj\Debug\net7.0\moviefinder.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pedro\RiderProjects\moviefinder\obj\Debug\net7.0\staticwebassets\msbuild.moviefinder.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\pedro\RiderProjects\moviefinder\obj\Debug\net7.0\staticwebassets\msbuild.build.moviefinder.props
+C:\Users\pedro\RiderProjects\moviefinder\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.moviefinder.props
+C:\Users\pedro\RiderProjects\moviefinder\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.moviefinder.props
+C:\Users\pedro\RiderProjects\moviefinder\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\pedro\RiderProjects\moviefinder\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\pedro\RiderProjects\moviefinder\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\pedro\RiderProjects\moviefinder\obj\Debug\net7.0\scopedcss\bundle\moviefinder.styles.css
+C:\Users\pedro\RiderProjects\moviefinder\obj\Debug\net7.0\moviefinder.csproj.CopyComplete
+C:\Users\pedro\RiderProjects\moviefinder\obj\Debug\net7.0\moviefinder.dll
+C:\Users\pedro\RiderProjects\moviefinder\obj\Debug\net7.0\refint\moviefinder.dll
+C:\Users\pedro\RiderProjects\moviefinder\obj\Debug\net7.0\moviefinder.pdb
+C:\Users\pedro\RiderProjects\moviefinder\obj\Debug\net7.0\moviefinder.genruntimeconfig.cache
+C:\Users\pedro\RiderProjects\moviefinder\obj\Debug\net7.0\ref\moviefinder.dll
+C:\Users\pedro\RiderProjects\moviefinder\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\pedro\RiderProjects\moviefinder\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\pedro\RiderProjects\moviefinder\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\pedro\RiderProjects\moviefinder\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\pedro\RiderProjects\moviefinder\obj\Debug\net7.0\moviefinder.MvcApplicationPartsAssemblyInfo.cs
+D:\MovieFinderCSharp-main\obj\Debug\net7.0\moviefinder.dll
+D:\MovieFinderCSharp-main\obj\Debug\net7.0\refint\moviefinder.dll
+D:\MovieFinderCSharp-main\obj\Debug\net7.0\moviefinder.pdb
+D:\MovieFinderCSharp-main\bin\Debug\net7.0\appsettings.Development.json
+D:\MovieFinderCSharp-main\bin\Debug\net7.0\appsettings.json
+D:\MovieFinderCSharp-main\bin\Debug\net7.0\moviefinder.exe
+D:\MovieFinderCSharp-main\bin\Debug\net7.0\moviefinder.deps.json
+D:\MovieFinderCSharp-main\bin\Debug\net7.0\moviefinder.runtimeconfig.json
+D:\MovieFinderCSharp-main\bin\Debug\net7.0\moviefinder.dll
+D:\MovieFinderCSharp-main\bin\Debug\net7.0\moviefinder.pdb
+D:\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\MovieFinderCSharp-main\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\MovieFinderCSharp-main\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\MovieFinderCSharp-main\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\MovieFinderCSharp-main\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\MovieFinderCSharp-main\obj\Debug\net7.0\moviefinder.csproj.AssemblyReference.cache
+D:\MovieFinderCSharp-main\obj\Debug\net7.0\moviefinder.GeneratedMSBuildEditorConfig.editorconfig
+D:\MovieFinderCSharp-main\obj\Debug\net7.0\moviefinder.AssemblyInfoInputs.cache
+D:\MovieFinderCSharp-main\obj\Debug\net7.0\moviefinder.AssemblyInfo.cs
+D:\MovieFinderCSharp-main\obj\Debug\net7.0\moviefinder.csproj.CoreCompileInputs.cache
+D:\MovieFinderCSharp-main\obj\Debug\net7.0\moviefinder.MvcApplicationPartsAssemblyInfo.cs
+D:\MovieFinderCSharp-main\obj\Debug\net7.0\moviefinder.MvcApplicationPartsAssemblyInfo.cache
+D:\MovieFinderCSharp-main\obj\Debug\net7.0\staticwebassets\msbuild.moviefinder.Microsoft.AspNetCore.StaticWebAssets.props
+D:\MovieFinderCSharp-main\obj\Debug\net7.0\staticwebassets\msbuild.build.moviefinder.props
+D:\MovieFinderCSharp-main\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.moviefinder.props
+D:\MovieFinderCSharp-main\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.moviefinder.props
+D:\MovieFinderCSharp-main\obj\Debug\net7.0\staticwebassets.pack.json
+D:\MovieFinderCSharp-main\obj\Debug\net7.0\staticwebassets.build.json
+D:\MovieFinderCSharp-main\obj\Debug\net7.0\staticwebassets.development.json
+D:\MovieFinderCSharp-main\obj\Debug\net7.0\scopedcss\bundle\moviefinder.styles.css
+D:\MovieFinderCSharp-main\obj\Debug\net7.0\moviefinder.csproj.CopyComplete
+D:\MovieFinderCSharp-main\obj\Debug\net7.0\moviefinder.genruntimeconfig.cache
+D:\MovieFinderCSharp-main\obj\Debug\net7.0\ref\moviefinder.dll
+D:\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\appsettings.Development.json
+D:\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\appsettings.json
+D:\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\moviefinder.exe
+D:\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\moviefinder.deps.json
+D:\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\moviefinder.runtimeconfig.json
+D:\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\moviefinder.dll
+D:\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\moviefinder.pdb
+D:\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\moviefinder.csproj.AssemblyReference.cache
+D:\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\moviefinder.GeneratedMSBuildEditorConfig.editorconfig
+D:\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\moviefinder.AssemblyInfoInputs.cache
+D:\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\moviefinder.AssemblyInfo.cs
+D:\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\moviefinder.csproj.CoreCompileInputs.cache
+D:\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\moviefinder.MvcApplicationPartsAssemblyInfo.cs
+D:\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\moviefinder.MvcApplicationPartsAssemblyInfo.cache
+D:\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\staticwebassets\msbuild.moviefinder.Microsoft.AspNetCore.StaticWebAssets.props
+D:\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\staticwebassets\msbuild.build.moviefinder.props
+D:\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.moviefinder.props
+D:\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.moviefinder.props
+D:\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\staticwebassets.pack.json
+D:\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\staticwebassets.build.json
+D:\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\staticwebassets.development.json
+D:\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\scopedcss\bundle\moviefinder.styles.css
+D:\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\moviefinder.csproj.CopyComplete
+D:\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\moviefinder.dll
+D:\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\refint\moviefinder.dll
+D:\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\moviefinder.pdb
+D:\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\moviefinder.genruntimeconfig.cache
+D:\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\ref\moviefinder.dll
+C:\Users\pedro\Desenvolvimento\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\pedro\Desenvolvimento\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\appsettings.json
+C:\Users\pedro\Desenvolvimento\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\moviefinder.exe
+C:\Users\pedro\Desenvolvimento\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\moviefinder.deps.json
+C:\Users\pedro\Desenvolvimento\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\moviefinder.runtimeconfig.json
+C:\Users\pedro\Desenvolvimento\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\moviefinder.dll
+C:\Users\pedro\Desenvolvimento\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\moviefinder.pdb
+C:\Users\pedro\Desenvolvimento\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\pedro\Desenvolvimento\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\pedro\Desenvolvimento\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Humanizer.dll
+C:\Users\pedro\Desenvolvimento\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pedro\Desenvolvimento\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\pedro\Desenvolvimento\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\pedro\Desenvolvimento\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pedro\Desenvolvimento\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\pedro\Desenvolvimento\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pedro\Desenvolvimento\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\pedro\Desenvolvimento\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\pedro\Desenvolvimento\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\pedro\Desenvolvimento\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\pedro\Desenvolvimento\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\pedro\Desenvolvimento\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pedro\Desenvolvimento\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\pedro\Desenvolvimento\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pedro\Desenvolvimento\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pedro\Desenvolvimento\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pedro\Desenvolvimento\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\pedro\Desenvolvimento\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\pedro\Desenvolvimento\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pedro\Desenvolvimento\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\pedro\Desenvolvimento\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\pedro\Desenvolvimento\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\pedro\Desenvolvimento\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\pedro\Desenvolvimento\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\pedro\Desenvolvimento\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\pedro\Desenvolvimento\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\pedro\Desenvolvimento\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\pedro\Desenvolvimento\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pedro\Desenvolvimento\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\pedro\Desenvolvimento\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\pedro\Desenvolvimento\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pedro\Desenvolvimento\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\pedro\Desenvolvimento\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\pedro\Desenvolvimento\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\pedro\Desenvolvimento\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\pedro\Desenvolvimento\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pedro\Desenvolvimento\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pedro\Desenvolvimento\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pedro\Desenvolvimento\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pedro\Desenvolvimento\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pedro\Desenvolvimento\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\pedro\Desenvolvimento\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\pedro\Desenvolvimento\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\pedro\Desenvolvimento\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pedro\Desenvolvimento\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\pedro\Desenvolvimento\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\moviefinder.csproj.AssemblyReference.cache
+C:\Users\pedro\Desenvolvimento\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\moviefinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\Desenvolvimento\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\moviefinder.AssemblyInfoInputs.cache
+C:\Users\pedro\Desenvolvimento\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\moviefinder.AssemblyInfo.cs
+C:\Users\pedro\Desenvolvimento\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\moviefinder.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Desenvolvimento\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\moviefinder.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\pedro\Desenvolvimento\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\moviefinder.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pedro\Desenvolvimento\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\staticwebassets\msbuild.moviefinder.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\pedro\Desenvolvimento\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\staticwebassets\msbuild.build.moviefinder.props
+C:\Users\pedro\Desenvolvimento\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.moviefinder.props
+C:\Users\pedro\Desenvolvimento\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.moviefinder.props
+C:\Users\pedro\Desenvolvimento\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\pedro\Desenvolvimento\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\pedro\Desenvolvimento\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\pedro\Desenvolvimento\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\scopedcss\bundle\moviefinder.styles.css
+C:\Users\pedro\Desenvolvimento\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\moviefinder.csproj.CopyComplete
+C:\Users\pedro\Desenvolvimento\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\moviefinder.dll
+C:\Users\pedro\Desenvolvimento\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\refint\moviefinder.dll
+C:\Users\pedro\Desenvolvimento\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\moviefinder.pdb
+C:\Users\pedro\Desenvolvimento\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\moviefinder.genruntimeconfig.cache
+C:\Users\pedro\Desenvolvimento\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\ref\moviefinder.dll
+D:\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Azure.Core.dll
+D:\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Azure.Identity.dll
+D:\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Humanizer.dll
+D:\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\System.CodeDom.dll
+D:\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\System.Memory.Data.dll
+D:\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\libman.json
+C:\Users\pedro\Desenvolvimento\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\libman.json
+E:\Projetos\Faculdade\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\appsettings.Development.json
+E:\Projetos\Faculdade\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\appsettings.json
+E:\Projetos\Faculdade\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\libman.json
+E:\Projetos\Faculdade\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\moviefinder.exe
+E:\Projetos\Faculdade\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\moviefinder.deps.json
+E:\Projetos\Faculdade\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\moviefinder.runtimeconfig.json
+E:\Projetos\Faculdade\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\moviefinder.dll
+E:\Projetos\Faculdade\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\moviefinder.pdb
+E:\Projetos\Faculdade\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Azure.Core.dll
+E:\Projetos\Faculdade\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Azure.Identity.dll
+E:\Projetos\Faculdade\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Humanizer.dll
+E:\Projetos\Faculdade\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Projetos\Faculdade\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\Projetos\Faculdade\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\Projetos\Faculdade\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Projetos\Faculdade\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Projetos\Faculdade\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Projetos\Faculdade\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Projetos\Faculdade\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\Projetos\Faculdade\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\Projetos\Faculdade\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Projetos\Faculdade\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Projetos\Faculdade\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Projetos\Faculdade\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\Projetos\Faculdade\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\Projetos\Faculdade\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Projetos\Faculdade\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\Projetos\Faculdade\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\Projetos\Faculdade\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\Projetos\Faculdade\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\Projetos\Faculdade\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\Projetos\Faculdade\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\Projetos\Faculdade\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Projetos\Faculdade\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Projetos\Faculdade\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Projetos\Faculdade\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\System.CodeDom.dll
+E:\Projetos\Faculdade\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\Projetos\Faculdade\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\Projetos\Faculdade\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Projetos\Faculdade\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\System.Memory.Data.dll
+E:\Projetos\Faculdade\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\Projetos\Faculdade\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\Projetos\Faculdade\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\Projetos\Faculdade\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\Projetos\Faculdade\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Projetos\Faculdade\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Projetos\Faculdade\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projetos\Faculdade\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projetos\Faculdade\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projetos\Faculdade\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projetos\Faculdade\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Projetos\Faculdade\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Projetos\Faculdade\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Projetos\Faculdade\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Projetos\Faculdade\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Projetos\Faculdade\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Projetos\Faculdade\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\moviefinder.csproj.AssemblyReference.cache
+E:\Projetos\Faculdade\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\moviefinder.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\Faculdade\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\moviefinder.AssemblyInfoInputs.cache
+E:\Projetos\Faculdade\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\moviefinder.AssemblyInfo.cs
+E:\Projetos\Faculdade\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\moviefinder.csproj.CoreCompileInputs.cache
+E:\Projetos\Faculdade\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\moviefinder.MvcApplicationPartsAssemblyInfo.cs
+E:\Projetos\Faculdade\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\moviefinder.MvcApplicationPartsAssemblyInfo.cache
+E:\Projetos\Faculdade\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\staticwebassets\msbuild.moviefinder.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Projetos\Faculdade\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\staticwebassets\msbuild.build.moviefinder.props
+E:\Projetos\Faculdade\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.moviefinder.props
+E:\Projetos\Faculdade\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.moviefinder.props
+E:\Projetos\Faculdade\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Projetos\Faculdade\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\staticwebassets.build.json
+E:\Projetos\Faculdade\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\staticwebassets.development.json
+E:\Projetos\Faculdade\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\scopedcss\bundle\moviefinder.styles.css
+E:\Projetos\Faculdade\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\moviefinder.csproj.CopyComplete
+E:\Projetos\Faculdade\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\moviefinder.dll
+E:\Projetos\Faculdade\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\refint\moviefinder.dll
+E:\Projetos\Faculdade\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\moviefinder.pdb
+E:\Projetos\Faculdade\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\moviefinder.genruntimeconfig.cache
+E:\Projetos\Faculdade\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\ref\moviefinder.dll
+C:\Users\pedro\Desenvolvimento\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\BCrypt.Net-Next.dll
+E:\6 - Educacional\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\appsettings.Development.json
+E:\6 - Educacional\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\appsettings.json
+E:\6 - Educacional\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\libman.json
+E:\6 - Educacional\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\moviefinder.exe
+E:\6 - Educacional\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\moviefinder.deps.json
+E:\6 - Educacional\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\moviefinder.runtimeconfig.json
+E:\6 - Educacional\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\moviefinder.dll
+E:\6 - Educacional\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\moviefinder.pdb
+E:\6 - Educacional\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Azure.Core.dll
+E:\6 - Educacional\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Azure.Identity.dll
+E:\6 - Educacional\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\BCrypt.Net-Next.dll
+E:\6 - Educacional\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Humanizer.dll
+E:\6 - Educacional\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\6 - Educacional\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\6 - Educacional\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\6 - Educacional\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\6 - Educacional\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\6 - Educacional\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\6 - Educacional\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\6 - Educacional\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\6 - Educacional\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\6 - Educacional\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\6 - Educacional\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\6 - Educacional\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\6 - Educacional\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\6 - Educacional\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\6 - Educacional\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\6 - Educacional\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\6 - Educacional\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\6 - Educacional\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\6 - Educacional\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\6 - Educacional\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\6 - Educacional\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\6 - Educacional\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\6 - Educacional\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\6 - Educacional\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\6 - Educacional\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\System.CodeDom.dll
+E:\6 - Educacional\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\6 - Educacional\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\6 - Educacional\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\6 - Educacional\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\System.Memory.Data.dll
+E:\6 - Educacional\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\6 - Educacional\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\6 - Educacional\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\6 - Educacional\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\6 - Educacional\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\6 - Educacional\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\6 - Educacional\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\6 - Educacional\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\6 - Educacional\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\6 - Educacional\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\6 - Educacional\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\6 - Educacional\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\6 - Educacional\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\6 - Educacional\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\6 - Educacional\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\6 - Educacional\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\6 - Educacional\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\moviefinder.csproj.AssemblyReference.cache
+E:\6 - Educacional\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\moviefinder.GeneratedMSBuildEditorConfig.editorconfig
+E:\6 - Educacional\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\moviefinder.AssemblyInfoInputs.cache
+E:\6 - Educacional\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\moviefinder.AssemblyInfo.cs
+E:\6 - Educacional\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\moviefinder.csproj.CoreCompileInputs.cache
+E:\6 - Educacional\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\moviefinder.MvcApplicationPartsAssemblyInfo.cs
+E:\6 - Educacional\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\moviefinder.MvcApplicationPartsAssemblyInfo.cache
+E:\6 - Educacional\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\staticwebassets\msbuild.moviefinder.Microsoft.AspNetCore.StaticWebAssets.props
+E:\6 - Educacional\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\staticwebassets\msbuild.build.moviefinder.props
+E:\6 - Educacional\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.moviefinder.props
+E:\6 - Educacional\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.moviefinder.props
+E:\6 - Educacional\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\staticwebassets.pack.json
+E:\6 - Educacional\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\staticwebassets.build.json
+E:\6 - Educacional\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\staticwebassets.development.json
+E:\6 - Educacional\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\scopedcss\bundle\moviefinder.styles.css
+E:\6 - Educacional\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\moviefinder.csproj.CopyComplete
+E:\6 - Educacional\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\moviefinder.dll
+E:\6 - Educacional\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\refint\moviefinder.dll
+E:\6 - Educacional\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\moviefinder.pdb
+E:\6 - Educacional\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\moviefinder.genruntimeconfig.cache
+E:\6 - Educacional\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\ref\moviefinder.dll
+E:\Projetos\Faculdade\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\BCrypt.Net-Next.dll
+C:\Users\pedro\Desenvolvimento\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Juliana Dutra\Desenvolvimento\Repositorios\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Juliana Dutra\Desenvolvimento\Repositorios\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\appsettings.json
+C:\Users\Juliana Dutra\Desenvolvimento\Repositorios\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\libman.json
+C:\Users\Juliana Dutra\Desenvolvimento\Repositorios\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\moviefinder.exe
+C:\Users\Juliana Dutra\Desenvolvimento\Repositorios\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\moviefinder.deps.json
+C:\Users\Juliana Dutra\Desenvolvimento\Repositorios\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\moviefinder.runtimeconfig.json
+C:\Users\Juliana Dutra\Desenvolvimento\Repositorios\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\moviefinder.dll
+C:\Users\Juliana Dutra\Desenvolvimento\Repositorios\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\moviefinder.pdb
+C:\Users\Juliana Dutra\Desenvolvimento\Repositorios\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Juliana Dutra\Desenvolvimento\Repositorios\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Juliana Dutra\Desenvolvimento\Repositorios\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\BCrypt.Net-Next.dll
+C:\Users\Juliana Dutra\Desenvolvimento\Repositorios\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Juliana Dutra\Desenvolvimento\Repositorios\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Juliana Dutra\Desenvolvimento\Repositorios\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Juliana Dutra\Desenvolvimento\Repositorios\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Juliana Dutra\Desenvolvimento\Repositorios\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Juliana Dutra\Desenvolvimento\Repositorios\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Juliana Dutra\Desenvolvimento\Repositorios\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Juliana Dutra\Desenvolvimento\Repositorios\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Juliana Dutra\Desenvolvimento\Repositorios\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Juliana Dutra\Desenvolvimento\Repositorios\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Juliana Dutra\Desenvolvimento\Repositorios\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Juliana Dutra\Desenvolvimento\Repositorios\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Juliana Dutra\Desenvolvimento\Repositorios\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Juliana Dutra\Desenvolvimento\Repositorios\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Juliana Dutra\Desenvolvimento\Repositorios\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Juliana Dutra\Desenvolvimento\Repositorios\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Juliana Dutra\Desenvolvimento\Repositorios\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Juliana Dutra\Desenvolvimento\Repositorios\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Juliana Dutra\Desenvolvimento\Repositorios\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Juliana Dutra\Desenvolvimento\Repositorios\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Juliana Dutra\Desenvolvimento\Repositorios\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Juliana Dutra\Desenvolvimento\Repositorios\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Juliana Dutra\Desenvolvimento\Repositorios\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Juliana Dutra\Desenvolvimento\Repositorios\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Juliana Dutra\Desenvolvimento\Repositorios\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Juliana Dutra\Desenvolvimento\Repositorios\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Juliana Dutra\Desenvolvimento\Repositorios\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Juliana Dutra\Desenvolvimento\Repositorios\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Juliana Dutra\Desenvolvimento\Repositorios\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Juliana Dutra\Desenvolvimento\Repositorios\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Juliana Dutra\Desenvolvimento\Repositorios\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Juliana Dutra\Desenvolvimento\Repositorios\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Juliana Dutra\Desenvolvimento\Repositorios\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Juliana Dutra\Desenvolvimento\Repositorios\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Juliana Dutra\Desenvolvimento\Repositorios\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Juliana Dutra\Desenvolvimento\Repositorios\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Juliana Dutra\Desenvolvimento\Repositorios\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Juliana Dutra\Desenvolvimento\Repositorios\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Juliana Dutra\Desenvolvimento\Repositorios\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Juliana Dutra\Desenvolvimento\Repositorios\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Juliana Dutra\Desenvolvimento\Repositorios\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Juliana Dutra\Desenvolvimento\Repositorios\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Juliana Dutra\Desenvolvimento\Repositorios\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Juliana Dutra\Desenvolvimento\Repositorios\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Juliana Dutra\Desenvolvimento\Repositorios\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Juliana Dutra\Desenvolvimento\Repositorios\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Juliana Dutra\Desenvolvimento\Repositorios\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Juliana Dutra\Desenvolvimento\Repositorios\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\moviefinder.csproj.AssemblyReference.cache
+C:\Users\Juliana Dutra\Desenvolvimento\Repositorios\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\moviefinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juliana Dutra\Desenvolvimento\Repositorios\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\moviefinder.AssemblyInfoInputs.cache
+C:\Users\Juliana Dutra\Desenvolvimento\Repositorios\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\moviefinder.AssemblyInfo.cs
+C:\Users\Juliana Dutra\Desenvolvimento\Repositorios\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\moviefinder.csproj.CoreCompileInputs.cache
+C:\Users\Juliana Dutra\Desenvolvimento\Repositorios\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\moviefinder.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Juliana Dutra\Desenvolvimento\Repositorios\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\moviefinder.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Juliana Dutra\Desenvolvimento\Repositorios\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\staticwebassets\msbuild.moviefinder.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Juliana Dutra\Desenvolvimento\Repositorios\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\staticwebassets\msbuild.build.moviefinder.props
+C:\Users\Juliana Dutra\Desenvolvimento\Repositorios\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.moviefinder.props
+C:\Users\Juliana Dutra\Desenvolvimento\Repositorios\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.moviefinder.props
+C:\Users\Juliana Dutra\Desenvolvimento\Repositorios\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Juliana Dutra\Desenvolvimento\Repositorios\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Juliana Dutra\Desenvolvimento\Repositorios\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Juliana Dutra\Desenvolvimento\Repositorios\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\scopedcss\bundle\moviefinder.styles.css
+C:\Users\Juliana Dutra\Desenvolvimento\Repositorios\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\moviefinder.csproj.CopyComplete
+C:\Users\Juliana Dutra\Desenvolvimento\Repositorios\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\moviefinder.dll
+C:\Users\Juliana Dutra\Desenvolvimento\Repositorios\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\refint\moviefinder.dll
+C:\Users\Juliana Dutra\Desenvolvimento\Repositorios\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\moviefinder.pdb
+C:\Users\Juliana Dutra\Desenvolvimento\Repositorios\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\moviefinder.genruntimeconfig.cache
+C:\Users\Juliana Dutra\Desenvolvimento\Repositorios\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\obj\Debug\net7.0\ref\moviefinder.dll
+E:\Projetos\Faculdade\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\src\MovieFinderCSharp-main\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
