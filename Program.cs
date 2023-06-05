@@ -90,6 +90,16 @@ namespace moviefinder
                             .AllowAnyHeader()
                             .AllowAnyMethod();
                     });
+                
+                options.AddPolicy("AllowFrontEnd-dev",
+                    builder =>
+                    {
+                        builder.WithOrigins("http://localhost:5173")
+                            .AllowCredentials()
+                            .AllowAnyHeader()
+                            .AllowAnyMethod();
+                    });
+                
             });
 
             var app = builder.Build();
@@ -98,9 +108,14 @@ namespace moviefinder
             {
                 app.UseSwagger();
                 app.UseSwaggerUI();
+                app.UseCors("AllowFrontEnd-dev");
             }
 
-            app.UseCors("AllowFrontEnd");
+            if (app.Environment.IsProduction())
+            {
+                app.UseCors("AllowFrontEnd");
+            }
+            
             app.UseHttpsRedirection();
             app.UseCookiePolicy();
             app.UseAuthorization();
