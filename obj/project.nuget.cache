@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5rFBRxjp4bXTWDjjcj/cVPIbgL7zY29m6yV/eSiAUm0EcK7suRbr1X2ykTGk4rgldIvsP0xeIFJXPWlg4Fnflw==",
+  "dgSpecHash": "buimCfQ0zxLjZCxBXhWu3twzlZ++QYp6JP2muRMvLF9dprAmAgcZym7dtmFqvP9/C91rn9Rxlf7VCHLerhuJTA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Juliana Dutra\\Desenvolvimento\\ProjetoPUC2023\\projeto-puc-moviefinder\\moviefinder.csproj",
+  "projectFilePath": "C:\\Users\\Juliana Dutra\\Desenvolvimento\\Repositorios\\pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder\\src\\MovieFinderCSharp-main\\moviefinder.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Juliana Dutra\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Juliana Dutra\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

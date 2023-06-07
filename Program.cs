@@ -85,21 +85,11 @@ namespace moviefinder
                 options.AddPolicy("AllowFrontEnd",
                     builder =>
                     {
-                        builder.WithOrigins("https://pmv-ads-2023-1-e2-proj-int-t2-time3-moviefinder.vercel.app")
-                            .AllowCredentials()
-                            .AllowAnyHeader()
-                            .AllowAnyMethod();
-                    });
-                
-                options.AddPolicy("AllowFrontEnd-dev",
-                    builder =>
-                    {
                         builder.WithOrigins("http://localhost:5173")
                             .AllowCredentials()
                             .AllowAnyHeader()
                             .AllowAnyMethod();
                     });
-                
             });
 
             var app = builder.Build();
@@ -108,14 +98,9 @@ namespace moviefinder
             {
                 app.UseSwagger();
                 app.UseSwaggerUI();
-                app.UseCors("AllowFrontEnd-dev");
             }
 
-            if (app.Environment.IsProduction())
-            {
-                app.UseCors("AllowFrontEnd");
-            }
-            
+            app.UseCors("AllowFrontEnd");
             app.UseHttpsRedirection();
             app.UseCookiePolicy();
             app.UseAuthorization();
