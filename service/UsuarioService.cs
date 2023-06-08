@@ -107,4 +107,38 @@ public class UsuarioService
 
         return filmeFavoritado;
     }
+    
+    public async Task<Usuario?> BuscarUsuario(string userId)
+    {
+        try
+        {
+            var usuarioDb = await _context.Usuarios.FirstOrDefaultAsync(u => u.Id == int.Parse(userId));
+            return usuarioDb;
+        }
+        catch (Exception e)
+        {
+            Console.WriteLine($"Ocorreu um erro: {e.Message}");
+            throw;
+        }
+    }
+
+    public async Task<bool> AtualizarUsuario(Usuario usuarioDb, RedefinicaoSenha redefinicaoSenha)
+    {
+        try
+        {
+            usuarioDb.Nome = redefinicaoSenha.Nome;
+            if (redefinicaoSenha.Senha != null && redefinicaoSenha.NovaSenha != null)
+            {
+                usuarioDb.Senha = BCrypt.Net.BCrypt.HashPassword(redefinicaoSenha.NovaSenha);
+            }
+            _context.Update(usuarioDb);
+            await _context.SaveChangesAsync();
+            return true;
+        }
+        catch (Exception e)
+        {
+            Console.WriteLine($"Ocorreu um erro: {e.Message}");
+            throw;
+        }
+    }
 }
